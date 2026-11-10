@@ -52,4 +52,7 @@ Currently in development. Dataset inspection and preparation are underway.
 
 ## Team
 
-Add the names of all project members here.
+Ella Bado
+Juhanara Saluta
+Vidal Serata
+Jan Atkinson Bolando
